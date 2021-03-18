@@ -9,3 +9,4 @@ function myFunction(name){
     return school
 }
 console.log(myFunction("Paragon"))
+module.exports = myFunction;

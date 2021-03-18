@@ -15,7 +15,7 @@ username = username[email]
 return username
 
 }
-console.log(getUsername("user1@mail.com"));
+console.log(getUsername("user2@mail.com"));
 module.exports = getUsername;
 
 

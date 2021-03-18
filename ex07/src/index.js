@@ -9,3 +9,4 @@ function myFunction() {
   return lion;
 }
 console.log(myFunction("roar"));
+module.exports = myFunction;
